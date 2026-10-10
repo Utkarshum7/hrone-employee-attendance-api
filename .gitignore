@@ -1,0 +1,20 @@
+# local / generated
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+
+# assignment-kit material that is not a required deliverable (must not be published, see HROne instructions)
+PROBLEM_STATEMENT.docx
+openapi.yaml
+DATA_MODEL.md
+sample_data/
+sample_seed.py
+
+# personal study notes
+INTERVIEW_PREP.md
+FINAL_REVIEW_REPORT.md
+INTERVIEW_QUICK_REVISION.md
